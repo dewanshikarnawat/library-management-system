@@ -23,43 +23,30 @@ A sleek, dark-themed **Library Management System** built with modern web technol
 > 🎯 Built as a production-ready project showcasing full-stack development skills with real-world CRUD operations, role-based access, and live analytics.
 
 ---
-<img width="1920" height="871" alt="Screenshot (488)" src="https://github.com/user-attachments/assets/a9149229-f2a7-4ebd-b03d-b0a06eea7a08" />
-
+<img width="1920" height="882" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/ee8e5a76-6127-46bf-ab77-236126383b14" />
 
 ### 📖 Book Details
-> Detailed book view with metadata, availability status, and issue history.
+<img width="1920" height="882" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/b63d6116-787f-41a1-aaf6-bb390346c8b4" />
 
-![Book Details](https://raw.githubusercontent.com/dewanshikarnawat/library-management-system/main/screenshots/book-details.png)
-
-<details>
-<summary>📸 View More Screenshots</summary>
 
 ### 📤 Issue Book
-> Assign books to members with flexible loan periods and real-time availability updates.
+<img width="1920" height="882" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/737c2016-0f2d-4a2d-a2cb-fd199dd88690" />
 
-![Issue Book](https://raw.githubusercontent.com/dewanshikarnawat/library-management-system/main/screenshots/issue-book.png)
 
 ### 📥 Return Book
-> Process returns with a clean summary panel showing issue and due dates.
+<img width="1920" height="882" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/c6886bbe-61b4-43a0-aed6-34c3fe171546" />
 
-![Return Book](https://raw.githubusercontent.com/dewanshikarnawat/library-management-system/main/screenshots/return-book.png)
 
 ### 📋 Issue History
-> Full audit trail of all book issues and returns with status badges.
+<img width="1920" height="882" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/1322d99c-79aa-4afd-903f-07fdf1f72d2e" />
 
-![Issue History](https://raw.githubusercontent.com/dewanshikarnawat/library-management-system/main/screenshots/issue-history.png)
 
 ### 📊 Reports & Analytics
-> Monthly comparison charts with total issued, returned, and overdue counts.
+<img width="1920" height="882" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/0b05831f-b920-443a-86fc-a807a0f7b359" />
 
-![Reports](https://raw.githubusercontent.com/dewanshikarnawat/library-management-system/main/screenshots/reports.png)
 
 ### 🏠 Dashboard
-> At-a-glance library activity with charts, quick actions, and books-by-category breakdown.
-
-![Dashboard](https://raw.githubusercontent.com/dewanshikarnawat/library-management-system/main/screenshots/dashboard.png)
-
-</details>
+<img width="1920" height="882" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/cec3bb29-fbf1-4e9a-87e7-0ce4804c6721" />
 
 ---
 
