@@ -23,8 +23,8 @@ A sleek, dark-themed **Library Management System** built with modern web technol
 > 🎯 Built as a production-ready project showcasing full-stack development skills with real-world CRUD operations, role-based access, and live analytics.
 
 ---
+<img width="1920" height="871" alt="Screenshot (488)" src="https://github.com/user-attachments/assets/a9149229-f2a7-4ebd-b03d-b0a06eea7a08" />
 
-## 🖼️ Screenshots
 
 ### 📖 Book Details
 > Detailed book view with metadata, availability status, and issue history.
@@ -173,7 +173,7 @@ src/
 **Dewanshi Karnawat**
 
 [![GitHub](https://img.shields.io/badge/GitHub-dewanshikarnawat-181717?style=flat-square&logo=github)](https://github.com/dewanshikarnawat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/dewanshikarnawat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dewanshi-karnawat-388578353/)
 
 ---
 
