@@ -26,27 +26,22 @@ A sleek, dark-themed **Library Management System** built with modern web technol
 <img width="1920" height="882" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/ee8e5a76-6127-46bf-ab77-236126383b14" />
 
 ### 📖 Book Details
-<img width="1920" height="882" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/b63d6116-787f-41a1-aaf6-bb390346c8b4" />
-
+<img width="1920" height="944" alt="Screenshot (490)" src="https://github.com/user-attachments/assets/e8646f7a-3d02-495d-a27c-8a04a810fcfd" />
 
 ### 📤 Issue Book
-<img width="1920" height="882" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/737c2016-0f2d-4a2d-a2cb-fd199dd88690" />
-
+<img width="1920" height="936" alt="Screenshot (493)" src="https://github.com/user-attachments/assets/d8066291-fcf0-4956-a085-b3fb25e474a1" />
 
 ### 📥 Return Book
-<img width="1920" height="882" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/c6886bbe-61b4-43a0-aed6-34c3fe171546" />
-
+<img width="1920" height="944" alt="Screenshot (494)" src="https://github.com/user-attachments/assets/70292b1f-02fb-4a4c-8e9a-f58d58f2532b" />
 
 ### 📋 Issue History
-<img width="1920" height="882" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/1322d99c-79aa-4afd-903f-07fdf1f72d2e" />
-
+<img width="1920" height="944" alt="Screenshot (495)" src="https://github.com/user-attachments/assets/8b70d979-fedd-40cf-bdc2-36c436fbf94d" />
 
 ### 📊 Reports & Analytics
-<img width="1920" height="882" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/0b05831f-b920-443a-86fc-a807a0f7b359" />
-
+<img width="1920" height="939" alt="Screenshot (496)" src="https://github.com/user-attachments/assets/077a836c-a7d3-40e9-b0bb-9d3c577a6958" />
 
 ### 🏠 Dashboard
-<img width="1920" height="882" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/cec3bb29-fbf1-4e9a-87e7-0ce4804c6721" />
+<img width="1920" height="877" alt="Screenshot (497)" src="https://github.com/user-attachments/assets/1889b362-1a23-44ff-a791-1872d8cb17d8" />
 
 ---
 
