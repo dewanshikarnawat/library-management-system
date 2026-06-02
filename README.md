@@ -10,7 +10,7 @@
 [![Supabase](https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
-**[Live Demo](#) · [Report Bug](https://github.com/dewanshikarnawat/library-management-system/issues) · [Request Feature](https://github.com/dewanshikarnawat/library-management-system/issues)**
+**[Report Bug](https://github.com/dewanshikarnawat/library-management-system/issues) · [Request Feature](https://github.com/dewanshikarnawat/library-management-system/issues)**
 
 </div>
 
