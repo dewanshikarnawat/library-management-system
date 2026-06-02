@@ -9,8 +9,33 @@ import { notFound, errorHandler } from './middleware/errorHandler.js'
 
 const app = express()
 
+const localDevOriginRe = /^http:\/\/(localhost|127\.0\.0\.1):\d+$/
+
+function parseClientUrls(value) {
+  return (value || '')
+    .split(',')
+    .map(s => s.trim())
+    .filter(Boolean)
+}
+
+function isAllowedOrigin(origin) {
+  // Allow non-browser clients (no Origin header), e.g. curl/Postman.
+  if (!origin) return true
+
+  const explicit = parseClientUrls(process.env.CLIENT_URL)
+  if (explicit.length > 0) {
+    // Allow configured origins; also allow localhost/127.0.0.1 for development.
+    return explicit.includes(origin) || localDevOriginRe.test(origin)
+  }
+
+  // Default dev behavior: allow localhost/127.0.0.1 on any port.
+  return localDevOriginRe.test(origin)
+}
+
 app.use(cors({
-  origin: process.env.CLIENT_URL || 'http://localhost:5173',
+  origin(origin, callback) {
+    return callback(null, isAllowedOrigin(origin))
+  },
   credentials: true,
 }))
 app.use(express.json())
